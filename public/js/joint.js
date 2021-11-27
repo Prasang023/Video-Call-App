@@ -1,4 +1,4 @@
-const webSocket = new WebSocket("ws://intense-reef-21186.herokuapp.com/")
+const webSocket = new WebSocket("wss://intense-reef-21186.herokuapp.com/")
 // const webSocket = new WebSocket("ws://localhost:3000")
 
 
